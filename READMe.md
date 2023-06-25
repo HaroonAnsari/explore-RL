@@ -4,7 +4,7 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 ## Foundational Papers
 
 ### Classical papers
-* **\[1998\] Learning to predict by the methods of temporal differences** [\[PDF\]](http://incompleteideas.net/papers/sutton-88-with-erratum.pdf)
+* **\[1989\] Learning to predict by the methods of temporal differences** [\[PDF\]](http://incompleteideas.net/papers/sutton-88-with-erratum.pdf)
 * **\[1992\] Q-learning** [\[PDF\]](https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
 * **\[1995\] Temporal Difference Learning and TD-Gammon** [\[PDF\]](https://www.csd.uwo.ca/~xling/cs346a/extra/tdgammon.pdf)
 * **\[2000\] Policy Gradient Methods for Reinforcement Learning with Function Approximation** [\[PDF\]](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf)
@@ -12,5 +12,10 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 
 ### 2013
 * **Playing Atari with Deep Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1312.5602.pdf)
+
+### 2014
+* **deterministic Policy Gradient** [\[PDF\]](http://proceedings.mlr.press/v32/silver14.pdf)
+
+### 2015
 * **Human-level control through deep reinforcement learning** [\[PDF\]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 * **Prioritized Experience Replay** [\[PDF\]](https://arxiv.org/pdf/1511.05952.pdf)
