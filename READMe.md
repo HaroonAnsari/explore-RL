@@ -14,8 +14,16 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 * **Playing Atari with Deep Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1312.5602.pdf)
 
 ### 2014
-* **deterministic Policy Gradient** [\[PDF\]](http://proceedings.mlr.press/v32/silver14.pdf)
+* **Deterministic Policy Gradient** [\[PDF\]](http://proceedings.mlr.press/v32/silver14.pdf)
 
 ### 2015
-* **Human-level control through deep reinforcement learning** [\[PDF\]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+* **Human-level control through deep reinforcement learning (DQN)** [\[PDF\]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 * **Prioritized Experience Replay** [\[PDF\]](https://arxiv.org/pdf/1511.05952.pdf)
+* **Deep Reinforcement Learning with Double Q-learning (Double-DQN)** [\[PDF\]](https://arxiv.org/pdf/1509.06461.pdf)
+* **Trust Region Policy Optimization (TRPO)** [\[PDF\]](https://arxiv.org/pdf/1502.05477.pdf)
+* **High-Dimensional Continuous Control Using Generalized Advantage Estimation (GAE)** [\[PDF\]](https://arxiv.org/pdf/1506.02438.pdf)
+* **Continuous control with deep reinforcement learning (DDPG)** [\[PDF\]](https://arxiv.org/pdf/1509.02971.pdf)
+
+## Recent Papers
+
+### 2016
