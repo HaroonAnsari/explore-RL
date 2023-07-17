@@ -23,7 +23,15 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 * **Trust Region Policy Optimization (TRPO)** [\[PDF\]](https://arxiv.org/pdf/1502.05477.pdf)
 * **High-Dimensional Continuous Control Using Generalized Advantage Estimation (GAE)** [\[PDF\]](https://arxiv.org/pdf/1506.02438.pdf)
 * **Continuous control with deep reinforcement learning (DDPG)** [\[PDF\]](https://arxiv.org/pdf/1509.02971.pdf)
+* **Universal Value Function Approximators** [\[PDF\]](http://proceedings.mlr.press/v37/schaul15.pdf)
 
 ## Recent Papers
 
 ### 2016
+* **Asynchronous Methods for Deep Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1602.01783.pdf)
+* **Sample Efficient Actor-Critic with Experience Replay** [\[PDF\]](https://arxiv.org/pdf/1611.01224.pdf)
+* **Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic** [\[PDF\]](https://arxiv.org/pdf/1611.02247.pdf)
+* **Combining policy gradient and Q-learning** [\[PDF\]](https://arxiv.org/pdf/1611.01626.pdf)
+* **Progressive Neural Networks** [\[PDF\]](https://arxiv.org/pdf/1606.04671.pdf)
+
+### 2017
