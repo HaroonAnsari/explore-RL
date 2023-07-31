@@ -35,3 +35,12 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 * **Progressive Neural Networks** [\[PDF\]](https://arxiv.org/pdf/1606.04671.pdf)
 
 ### 2017
+* **Proximal Policy Optimization Algorithms** [\[PDF\]](https://arxiv.org/pdf/1707.06347.pdf)
+* **A Distributional Perspective on Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1707.06887.pdf)
+* **The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1704.04651.pdf)
+* **Curiosity-driven Exploration by Self-supervised Prediction** [\[PDF\]](https://arxiv.org/pdf/1705.05363.pdf)
+* **FeUdal Networks for Hierarchical Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1703.01161.pdf)
+* **Imagination-Augmented Agents for Deep Reinforcement Learning** [\[PDF\]](https://arxiv.org/pdf/1707.06203.pdf)
+* **Deep reinforcement learning from human preferences** [\[PDF\]](https://arxiv.org/pdf/1706.03741.pdf)
+
+### 2018
