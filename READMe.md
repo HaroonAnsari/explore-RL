@@ -44,3 +44,7 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 * **Deep reinforcement learning from human preferences** [\[PDF\]](https://arxiv.org/pdf/1706.03741.pdf)
 
 ### 2018
+* **Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor** [\[PDF\]](https://arxiv.org/pdf/1801.01290.pdf)
+* **Addressing Function Approximation Error in Actor-Critic Methods**[\[PDF\]](https://arxiv.org/pdf/1802.09477.pdf)
+
+### 2019
