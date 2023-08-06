@@ -48,3 +48,5 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 * **Addressing Function Approximation Error in Actor-Critic Methods**[\[PDF\]](https://arxiv.org/pdf/1802.09477.pdf)
 
 ### 2019
+* **Model Based Reinforcement Learning for Atari**[\[PDF\]](https://arxiv.org/pdf/1903.00374v3.pdf)
+* **Dota 2 with Large Scale Deep Reinforcement Learning**[\[PDF\]](https://arxiv.org/pdf/1912.06680v1.pdf)
