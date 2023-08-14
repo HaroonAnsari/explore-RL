@@ -50,3 +50,6 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 ### 2019
 * **Model Based Reinforcement Learning for Atari**[\[PDF\]](https://arxiv.org/pdf/1903.00374v3.pdf)
 * **Dota 2 with Large Scale Deep Reinforcement Learning**[\[PDF\]](https://arxiv.org/pdf/1912.06680v1.pdf)
+
+### 2020
+* **Revisiting Fundamentals of Experience Replay**[\[PDF\]](https://arxiv.org/pdf/2007.06700.pdf)
