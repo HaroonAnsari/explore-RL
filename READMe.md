@@ -50,3 +50,8 @@ This repository serves as an essential guide to the field of Reinforcement Learn
 * **Deep Reinforcement Learning at the Edge of the Statistical Precipice** [\[PDF\]](https://openreview.net/pdf?id=uqv8-U4lKBe)
 * **Open-Ended Learning Leads to Generally Capable Agents** [\[PDF\]](https://storage.googleapis.com/deepmind-media/papers/Open-Ended%20Learning%20Leads%20to%20Generally%20Capable%20Agents/open-ended-learning-paper.pdf)
 * **Decision Transformer: Reinforcement Learning via Sequence Modeling** [\[PDF\]](https://arxiv.org/pdf/2106.01345.pdf)
+
+### 2022
+
+* **Training language models to follow instructions with human feedback (RLHF)** [\[PDF\]](https://arxiv.org/pdf/2203.02155.pdf)
+* **Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization** [\[PDF\]](https://arxiv.org/pdf/2210.01241.pdf)
