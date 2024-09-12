@@ -1,6 +1,16 @@
 # explore-RL
 This repository serves as an essential guide to the field of Reinforcement Learning (RL), offering a curated list of both foundational and recent influential papers. It is divided into two main sections: the first contains the seminal papers that have shaped the foundation of RL, and the second provides a chronological list of key papers that reflect the latest advancements and trends in the field. Whether you're a student, a researcher, or an enthusiast, this collection is designed to keep you up-to-date and deepen your understanding of the ever-evolving landscape of RL.
 
+## Index
+- [Foundational Papers](#foundational-papers)
+  - [RL](#rl)
+  - [Deep RL](#deep-rl)
+- [Early Developments in DeepRL](#early-developments-in-deeprl)
+- [Recent Advancements](#recent-advancements)
+  - [2021](#2021)
+  - [2022](#2022)
+ 
+
 ## Foundational Papers
 
 ### RL
